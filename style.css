@@ -1,0 +1,100 @@
+li {
+    display: inline;
+    padding: 10px;
+    
+    
+    
+    
+}
+#color{
+    border-radius: 50px;
+    background-color:forestgreen ;
+    color: white;
+    height: 35px;
+    width: 90px;
+     
+    
+}
+.li>button{
+    color:black;
+    background-color: white;
+}
+#search{
+    background-image: url('https://cdn3.iconfinder.com/data/icons/feather-5/24/search-512.png');
+    background-size: 15px;
+    background-repeat: no-repeat;
+    padding-left: 14px;
+    border-radius: 50px;
+    border-color: white;
+    width: 200px;
+    
+}
+.remove{
+    border-color: white;
+}
+#white{
+    color: black;
+    background-color: white;
+    border-color: white;
+    height: 35px;
+    width: 80px;
+}
+#circle{
+    border-radius: 50px;
+    border-color: white;
+    background-color: white;
+    
+}
+#bw{
+    border-color: white;
+}
+#more{
+    border-color: white;
+}
+#size{
+    width: 800px;
+}
+#font{
+    color: green;
+    font-size: 100px;
+    padding-left: 150px;
+    
+}
+#img{
+    width: 500px;
+    margin-left: 200px;
+    
+}
+.top
+{
+    padding-left: 150px;
+    font-size: 30px;
+    color: grey;
+    display: inline;
+}
+.asd{
+    margin-left: 150px;
+    color: white;
+    background-color: forestgreen;
+    border-radius: 30px;
+    width: 100px;
+    height: 35px;
+
+}
+.beech{
+    margin-left: 150px;
+    color: grey;
+}
+.mk{
+    margin-left: 150px;
+}
+.img1{
+    position: relative;
+    top: 10px;
+}
+
+
+
+
+
+
